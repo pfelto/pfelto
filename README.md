@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pfelto
 - 👀 I’m interested in React and Full Stack Web Development
-- 🌱 I’m currently learning JavaScript and Reat along with all the cool libraries and tools to go along with Full Stack Web Development
+- 🌱 I’m currently learning JavaScript, React and all the cool libraries and tools to go along with Full Stack Web Development (node.js, JEST, TypeScript, Redux, ... )
 - 📫 How to reach me paul.r.felton@gmail.com
 
 <!---
